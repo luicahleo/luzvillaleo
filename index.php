@@ -3,6 +3,7 @@
     // Si se recibe Datos con el Método GET, los procesamos
     if (isset($_GET['contador_esp'])){
         $var1 = $_GET['contador_esp'];
+        echo $var1;
     }
    
    
