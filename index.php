@@ -13,7 +13,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    --<meta http-equiv="refresh" content="3">
+    <meta http-equiv="refresh" content="3">
     <title>Luz</title>
 
 </head>
